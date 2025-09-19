@@ -11,3 +11,10 @@ Jose Gael Cruz Lopez : @[Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz
 ### Software Apps and Online Services
 -  [Onshape](https://www.onshape.com/en/)
 -  [SolidWorks](https://www.solidworks.com/)
+
+## Methodology
+
+### Measurements of Schematics 
+
+<img width="348" height="558" alt="image" src="https://github.com/user-attachments/assets/ac650b1c-278c-4ed9-9b53-4ddb60a44fb4" />
+
