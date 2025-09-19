@@ -6,3 +6,8 @@ During my time as a CAD assistant with Generation Conscious, I worked closely wi
 
 ## Authors
 Jose Gael Cruz Lopez : @[Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz-Lopez)
+
+## Things used in this project
+### Software Apps and Online Services
+[Onshape](https://www.onshape.com/en/)
+[SolidWorks](https://www.solidworks.com/)
