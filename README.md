@@ -18,12 +18,12 @@ Jose Gael Cruz Lopez : @[Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz
 One of the first challenges was working with the exact dimensions of the **10.1” capacitive touch screen** and its electronics. The screen itself measures **9.25 in × 5.62 in × 0.27 in**. On the back, the Raspberry Pi and the controller board occupy additional space, which required careful planning to design an enclosure that fit everything securely.  
 
 Key considerations included:  
-- The combined space the **control board + Raspberry Pi** take up behind the screen.  
+- The combined space the **control board + Raspberry Pi** take up behind the screen, (the edges that stick out from both components)  
 - The **clearance from the front of the screen to the top of the Raspberry Pi when mounted**, which I initially estimated to be around **21 mm** and requested precise measurements for.  
 - Ensuring enough depth inside the case for airflow and easy assembly without crowding the components.  
 - Keeping external clutter minimal: only **two cables exit the enclosure** (one for Raspberry Pi power and one for the modem). All other cables stay neatly inside, connecting the Pi directly to the screen.  
 
-This measurement step was critical to making sure the enclosure could properly house all components while maintaining functionality and sleek design.  
+This measurement step was critical to making sure the enclosure could properly house all components while maintaining functionality and sleek design.
 
 <p align="center">
   <img width="70%" alt="image" src="https://github.com/user-attachments/assets/a327afc9-4356-48da-a650-edd843530e05" />
