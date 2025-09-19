@@ -21,7 +21,7 @@ Key considerations included:
 - The combined space the **control board + Raspberry Pi** take up behind the screen, (the edges that stick out from both components)  
 - The **clearance from the front of the screen to the top of the Raspberry Pi when mounted**, which I initially estimated to be around **21 mm** and requested precise measurements for.  
 - Ensuring enough depth inside the case for airflow and easy assembly without crowding the components.  
-- Keeping external clutter minimal: only **two cables exit the enclosure** (one for Raspberry Pi power and one for the modem). All other cables stay neatly inside, connecting the Pi directly to the screen.  
+- Keeping external clutter minimal: only **two cables exit the enclosure** (one for Raspberry Pi power and one for the modem alongside its antenna). All other cables stay neatly inside, connecting the Pi directly to the screen.  
 
 This measurement step was critical to making sure the enclosure could properly house all components while maintaining functionality and sleek design.
 
