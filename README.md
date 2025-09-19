@@ -9,5 +9,5 @@ Jose Gael Cruz Lopez : @[Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz
 
 ## Things used in this project
 ### Software Apps and Online Services
-[Onshape](https://www.onshape.com/en/)
-[SolidWorks](https://www.solidworks.com/)
+-  [Onshape](https://www.onshape.com/en/)
+-  [SolidWorks](https://www.solidworks.com/)
