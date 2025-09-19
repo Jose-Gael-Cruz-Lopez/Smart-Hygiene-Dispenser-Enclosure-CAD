@@ -32,3 +32,5 @@ This measurement step was critical to making sure the enclosure could properly h
 <p align="center">
   <img width="50%" alt="image" src="https://github.com/user-attachments/assets/ac650b1c-278c-4ed9-9b53-4ddb60a44fb4" />
 </p>
+
+### Prototyping
