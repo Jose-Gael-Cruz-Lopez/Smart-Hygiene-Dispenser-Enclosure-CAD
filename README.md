@@ -15,6 +15,6 @@ Jose Gael Cruz Lopez : @[Jose-Gael-Cruz-Lopez](https://github.com/Jose-Gael-Cruz
 ## Methodology
 
 ### Measurements of Schematics 
-
+<img width="647" height="391" alt="image" src="https://github.com/user-attachments/assets/a327afc9-4356-48da-a650-edd843530e05" />
 <img width="348" height="558" alt="image" src="https://github.com/user-attachments/assets/ac650b1c-278c-4ed9-9b53-4ddb60a44fb4" />
 
