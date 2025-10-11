@@ -34,3 +34,20 @@ This measurement step was critical to making sure the enclosure could properly h
 </p>
 
 ### Prototyping
+
+After completing the initial dimensional analysis, I began developing a series of parametric CAD prototypes to visualize, refine, and test the enclosure geometry. Using Onshape for rapid iteration and SolidWorks for advanced part relations and assemblies, I explored several design variations focused on usability, manufacturability, and internal clearance.
+
+#### Prototype A – Baseline Screen Enclosure
+This was the first iteration, designed around the raw touchscreen and Raspberry Pi layout. The goal was to verify:
+
+Accurate fit for the 10.1” screen and control board
+
+Adequate internal spacing for cables (BU
+
+Proper screw-hole placement and base stability
+
+This version served mainly as a fit-check prototype to confirm dimensional accuracy and interface alignment.
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/dc01af6a-4302-49b2-84ac-8fa3e51d32ba" />
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/b0c4b42d-bcab-4877-81fd-b5237efd5c22" />
