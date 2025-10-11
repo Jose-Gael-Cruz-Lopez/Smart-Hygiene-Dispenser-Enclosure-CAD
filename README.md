@@ -40,9 +40,9 @@ After completing the initial dimensional analysis, I began developing a series o
 #### Prototype A – Baseline Screen Enclosure
 - This was the first iteration, designed around the raw touchscreen and Raspberry Pi layout. The goal was to verify:
 
- -Accurate fit for the 10.1” screen and control board but there was not enough space for all the other components which meant that more depth needed to be added.
+- Accurate fit for the 10.1” screen and control board but there was not enough space for all the other components which meant that more depth needed to be added.
 
- -This version served mainly as a fit-check prototype to confirm dimensional accuracy and interface alignment.
+- This version served mainly as a fit-check prototype to confirm dimensional accuracy and interface alignment.
 
 <p align="center">
 <img width="60%" height="500" alt="image" src="https://github.com/user-attachments/assets/dc01af6a-4302-49b2-84ac-8fa3e51d32ba" />
