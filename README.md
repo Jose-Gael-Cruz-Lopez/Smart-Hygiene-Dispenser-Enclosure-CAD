@@ -26,7 +26,7 @@ Key considerations included:
 This measurement step was critical to making sure the enclosure could properly house all components while maintaining functionality and sleek design.
 
 <p align="center">
-  <img width="70%" alt="image" src="https://github.com/user-attachments/assets/a327afc9-4356-48da-a650-edd843530e05" />
+  <img width="70%" alt="image" src="https://github.com/user-attachments/assets/a327afc9-4356-48da-a650-edd843530e05" width="200" height="400" />
 </p>
 
 <p align="center">
