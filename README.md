@@ -51,3 +51,14 @@ After completing the initial dimensional analysis, I began developing a series o
 <img width="60%" height="810" alt="image" src="https://github.com/user-attachments/assets/61ee3a2f-33ba-44da-be56-7826b539c9af" />
 </p>
 
+#### Prototype B – Refined Mount + Ventilation Optimization
+
+This second iteration focused on improving internal organization, thermal management, and assembly efficiency while maintaining the clean external design. After validating the fit from Prototype A, I began refining the internal component layout to improve accessibility and airflow.
+
+Key Design Enhancements
+
+- Modular Mounting Structure: Introduced standoffs and custom mounting blocks for both the Raspberry Pi and control board, allowing secure yet removable installation for maintenance.
+
+- Cable Routing Improvements: Internal pathways were refined to ensure power and data cables could route cleanly between the display, Pi, and modem without tangling or obstruction.
+
+- Fastener Alignment: Adjusted the hole placements and wall offsets for improved screw alignment, ensuring easy tool access during assembly.
