@@ -47,8 +47,10 @@ Adequate internal spacing for cables (BU
 Proper screw-hole placement and base stability
 
 This version served mainly as a fit-check prototype to confirm dimensional accuracy and interface alignment.
-
+<p align="center">
 <img width="60%" height="500" alt="image" src="https://github.com/user-attachments/assets/dc01af6a-4302-49b2-84ac-8fa3e51d32ba" />
-
+</p>
+<p align="center">
 <img width="60%" height="810" alt="image" src="https://github.com/user-attachments/assets/61ee3a2f-33ba-44da-be56-7826b539c9af" />
+</p>
 
