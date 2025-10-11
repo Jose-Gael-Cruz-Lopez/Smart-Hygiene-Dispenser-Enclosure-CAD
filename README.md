@@ -62,7 +62,7 @@ Key Design Enhancements
 - Cable Routing Improvements: Internal pathways were refined to ensure power and data cables could route cleanly between the display, Pi, and modem without tangling or obstruction.
 
 - Fastener Alignment: Adjusted the hole placements and wall offsets for improved screw alignment, ensuring easy tool access during assembly.
-- 
+
 <p align="center">
 <img width= "40%" height="326" alt="image" src="https://github.com/user-attachments/assets/d7582391-1392-4951-b419-007278b3c6ca" />
 </p>
