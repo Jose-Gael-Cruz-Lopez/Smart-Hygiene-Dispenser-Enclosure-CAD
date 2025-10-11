@@ -48,6 +48,7 @@ Proper screw-hole placement and base stability
 
 This version served mainly as a fit-check prototype to confirm dimensional accuracy and interface alignment.
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/dc01af6a-4302-49b2-84ac-8fa3e51d32ba" />
+<img width="60%" height="500" alt="image" src="https://github.com/user-attachments/assets/dc01af6a-4302-49b2-84ac-8fa3e51d32ba" />
 
-<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/b0c4b42d-bcab-4877-81fd-b5237efd5c22" />
+<img width="60%" height="810" alt="image" src="https://github.com/user-attachments/assets/61ee3a2f-33ba-44da-be56-7826b539c9af" />
+
