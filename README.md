@@ -53,7 +53,7 @@ After completing the initial dimensional analysis, I began developing a series o
 
 #### Prototype B – Refined Mount + Ventilation Optimization
 
-This second iteration focused on improving internal organization, thermal management, and assembly efficiency while maintaining the clean external design. After validating the fit from Prototype A, I began refining the internal component layout to improve accessibility and airflow.
+This second iteration focused on improving internal organization, and assembly efficiency while maintaining the clean external design. After validating the fit from Prototype A, I began refining the internal component layout to improve accessibility and airflow.
 
 Key Design Enhancements
 
